@@ -1,4 +1,4 @@
-![Clone]([https://media2.giphy.com/media/VdoLDJeQiMNo9e7C80/giphy.gif](https://miro.medium.com/v2/resize:fit:1358/0*_b5ZnT9nLZlPpfxa.gif))
+![Clone]([https://media2.giphy.com/media/VdoLDJeQiMNo9e7C80/giphy.gif](https://miro.medium.com/v2/resize:fit:1358/0*_b5ZnT9nLZlPpfxa.gif)
 
 # React OLX Clone BY Ajay
 
