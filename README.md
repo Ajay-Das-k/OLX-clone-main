@@ -1,11 +1,11 @@
-![Clone]([https://media2.giphy.com/media/VdoLDJeQiMNo9e7C80/giphy.gif](https://miro.medium.com/v2/resize:fit:1358/0*_b5ZnT9nLZlPpfxa.gif)
+
 
 # React OLX Clone BY Ajay
 
 Welcome to the OLX Clone project repository! This repository contains the source code for building a replica of OLX, an online marketplace, using React.js. Whether you're a beginner or an experienced developer, this project provides an excellent opportunity to explore React.js and build a fully functional web application from scratch.
 
 
-![Clone](https://media2.giphy.com/media/VdoLDJeQiMNo9e7C80/giphy.gif)
+![Clone](https://miro.medium.com/v2/resize:fit:1358/0*_b5ZnT9nLZlPpfxa.gif)
 
 
 # Features:
